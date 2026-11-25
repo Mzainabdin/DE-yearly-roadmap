@@ -38,35 +38,15 @@ My learning methodology follows four principles:
 ## Repository Structure
 
 | Directory | Purpose |
-| --------- | ------- |
-roadmap/
+|---|---|
+| `roadmap/` | Yearly roadmap and learning phases |
+| `books/` | Book notes and chapter summaries |
+| `technical-skills/` | SQL, Python, Linux documentation |
+| `projects/` | Practical projects |
+| `daily-logs/` | Daily learning records |
+| `weekly-reviews/` | Weekly progress evaluations |
+| `resources/` | Useful learning resources |
 
-Yearly roadmap and learning phases
-
-books/
-
-Book notes, chapter summaries, and exercises
-
-technical-skills/
-
-SQL, Python, Linux, and other technical documentation
-
-projects/
-
-Practical data engineering projects
-
-daily-logs/
-
-Daily learning records
-
-weekly-reviews/
-
-Weekly progress evaluations
-
-resources/
-
-Useful documentation and learning resources
-
-Final Objective
+## Final Objective
 
 To develop the knowledge and practical capabilities required to design, develop, test, and maintain reliable data systems and data pipelines independently.
